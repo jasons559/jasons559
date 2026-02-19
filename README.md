@@ -1,6 +1,6 @@
 <h1>Hi, I'm Jason! </h1>
 
-<h2>👨‍💻 Enterprise Networking Projects:</h2>
+<h2>🏢 Enterprise Networking Projects:</h2>
 
 - <b>Enterprise Network Design and Implementation Lab (AlgoExpert)</b>
   - [Company Network Design and Implementation](https://github.com/joshmadakor1/Algorithms-Practice)
