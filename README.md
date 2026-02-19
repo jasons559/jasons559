@@ -2,7 +2,7 @@
 
 <h2>🏢 Enterprise Networking Projects:</h2>
 
-- <b>Enterprise Network Design and Implementation Lab (AlgoExpert)</b>
+- <b>Enterprise Network Design and Implementation Lab (2/16/2026)</b>
   - [Company Network Design and Implementation](https://github.com/joshmadakor1/Algorithms-Practice)
 
 <h2>Certifications (https://www.youtube.com/watch?v=a83ASGn_V_s)</h2>
