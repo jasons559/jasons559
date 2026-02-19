@@ -5,16 +5,15 @@
 - <b>Enterprise Network Design and Implementation Lab (2/16/2026)</b>
   - [Company Network Design and Implementation](https://github.com/joshmadakor1/Algorithms-Practice)
 
-<h2>Certifications (https://www.youtube.com/watch?v=a83ASGn_V_s)</h2>
+<h2>Certifications</h2>
 
-- [Comptia Sec+ CE]
+- Comptia Sec+ CE
+- CCNA in progress
 
-<h2>📺 Popular YouTube Videos</h2>
-
-- [My first enterprise network lab project](https://www.youtube.com/watch?v=a83ASGn_V_s)
+- 💻[My first enterprise network lab project](https://www.youtube.com/watch?v=a83ASGn_V_s)
 
 
-<h2> 🤳 Connect with me:</h2>
+<h2> 🔗 Connect with me:</h2>
 
 [<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
