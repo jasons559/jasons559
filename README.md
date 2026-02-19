@@ -13,7 +13,7 @@
 
 <h2> 💻Coursework</h2>
 
-- <b>Networking Basics-Cisco Learning Academy                  (1/31/2026)</b>
+- <b>Networking Basics-Cisco Learning Academy </b>(https://www.credly.com/badges/28a3a4f8-09ba-4e0d-b7ba-e5f7963e621a/public_url)
 
 -	Learned the fundamental concepts of networking, including infrastructure design, network components, and connectivity options.
 -	Completed Lab exercises for wireless network routing, segmentation, DHCP configuration, and building home networks
@@ -25,11 +25,11 @@ My first enterprise network lab project](https://www.youtube.com/watch?v=a83ASGn
 
 <h2> 🔗 Connect with me:</h2>
 
-[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-[youtube]: https://www.youtube.com/c/joshmadakor
+
 [instagram]: https://www.instagram.com/joshmadakor/
 [linkedin]: https://linkedin.com/in/joshmadakor
 
