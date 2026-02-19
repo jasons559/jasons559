@@ -7,7 +7,7 @@
 
 <h2>🔖 Certifications</h2>
 
-- Comptia Sec+C(https://www.credly.com/badges/a2c72105-a43b-43f8-8c3c-2068052c999f/public_url)
+- <b>CompTIA Sec+ </b>(https://www.credly.com/badges/a2c72105-a43b-43f8-8c3c-2068052c999f/public_url)
   
   - CCNA in progress
 
