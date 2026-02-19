@@ -7,8 +7,9 @@
 
 <h2>Certifications</h2>
 
-- Comptia Sec+ CE
-- CCNA in progress
+- Comptia Sec+C(https://www.credly.com/badges/a2c72105-a43b-43f8-8c3c-2068052c999f/public_url)
+  
+  - CCNA in progress
 
 - 💻[My first enterprise network lab project](https://www.youtube.com/watch?v=a83ASGn_V_s)
 
