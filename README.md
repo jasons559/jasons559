@@ -3,7 +3,7 @@
 <h2>👨‍💻 Enterprise Networking Projects:</h2>
 
 - <b>Enterprise Network Design and Implementation Lab (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Company Network Design and Implementation](https://github.com/joshmadakor1/Algorithms-Practice)
 
 <h2>Certifications (https://www.youtube.com/watch?v=a83ASGn_V_s)</h2>
 
