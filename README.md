@@ -9,9 +9,18 @@
 
 - <b>CompTIA Sec+ </b>(https://www.credly.com/badges/a2c72105-a43b-43f8-8c3c-2068052c999f/public_url)
   
-  - CCNA in progress
+- CCNA in progress
 
-- 💻[My first enterprise network lab project](https://www.youtube.com/watch?v=a83ASGn_V_s)
+<h2> 💻Coursework</h2>
+
+- <b>Networking Basics-Cisco Learning Academy                  (1/31/2026)</b>
+
+-	Learned the fundamental concepts of networking, including infrastructure design, network components, and connectivity options.
+-	Completed Lab exercises for wireless network routing, segmentation, DHCP configuration, and building home networks
+-	Application of the TCP/IP model, IPv4/IPv6 addressing, network layer functions, and port assignment, through computer -based learning and quizzes
+
+
+My first enterprise network lab project](https://www.youtube.com/watch?v=a83ASGn_V_s)
 
 
 <h2> 🔗 Connect with me:</h2>
