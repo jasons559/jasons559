@@ -13,7 +13,7 @@
 
 <h2> 💻Coursework</h2>
 
-- <b>Networking Basics-Cisco Learning Academy </b>(https://www.credly.com/badges/28a3a4f8-09ba-4e0d-b7ba-e5f7963e621a/public_url)
+<b>Networking Basics-Cisco Learning Academy </b>(https://www.credly.com/badges/28a3a4f8-09ba-4e0d-b7ba-e5f7963e621a/public_url)
 
 -	Learned the fundamental concepts of networking, including infrastructure design, network components, and connectivity options.
 -	Completed Lab exercises for wireless network routing, segmentation, DHCP configuration, and building home networks
