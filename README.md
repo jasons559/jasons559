@@ -19,8 +19,7 @@
 -	Completed Lab exercises for wireless network routing, segmentation, DHCP configuration, and building home networks
 -	Application of the TCP/IP model, IPv4/IPv6 addressing, network layer functions, and port assignment, through computer -based learning and quizzes
 
-<b>Intro to IOT-Cisco Learning Academy </b>
-
+<b>Intro to IOT-Cisco Learning Academy </b>(https://www.credly.com/badges/3c0530f8-62ed-49e4-a2cf-d6ca9fcfae54/public_url)
 -	Connected and configured various IOT devices to a network, using computer-based learning, with Cisco Packet Tracer.
 -	Learned and applied basic programming concepts, using Python and Blockly.
 -	Configured wireless security for network devices
