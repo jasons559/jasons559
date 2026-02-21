@@ -3,7 +3,7 @@
 <h2>🏢 Enterprise Networking Projects:</h2>
 
 - <b>Enterprise Network Design and Implementation Lab (2/16/2026)</b>
-- [Company Network Design and Implementation](https://github.com/joshmadakor1/Algorithms-Practice)
+- [Company Network Design and Implementation](https://github.com/jasons559/Company-Network-Design-and-Implementation-Lab)
 
 <h2>🔖 Certifications</h2>
 
