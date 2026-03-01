@@ -32,12 +32,12 @@
 <h2> 🔗 Connect with me:</h2>
 
 
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://www.linkedin.com/in/jason-stewart-5748a946/]
+[<img align="left" alt="jason-stewart | LinkedIn" width="22px" src="https://www.linkedin.com/in/jason-stewart-5748a946/]
 
 
 
-[instagram]: https://www.instagram.com/joshmadakor/
-[linkedin]: https://linkedin.com/in/joshmadakor
+
+[linkedin]: https://linkedin.com/in/jason-stewart-5748a946
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
