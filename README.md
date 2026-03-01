@@ -35,8 +35,6 @@
 [<img align="left" alt="jason-stewart | LinkedIn" width="22px" src="https://www.linkedin.com/in/jason-stewart-5748a946/]
 
 
-
-
 [linkedin]: https://linkedin.com/in/jason-stewart-5748a946
 
 <!--
