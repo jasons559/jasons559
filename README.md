@@ -5,6 +5,11 @@
 - <b>Enterprise Network Design and Implementation Lab (2/16/2026)</b>
 - [Company Network Design and Implementation](https://github.com/jasons559/Company-Network-Design-and-Implementation-Lab)
 
+<h2>🏢 Active Directory Projects:</h2>
+
+- <b>Active Directory Home Lab- Windows Server Domain Infrastructure (3/10/2026)</b>
+- [Company Network Design and Implementation](https://github.com/jasons559/Company-Network-Design-and-Implementation-Lab)
+
 <h2>🔖 Certifications</h2>
 
 - <b>CompTIA Sec+ </b>(https://www.credly.com/badges/a2c72105-a43b-43f8-8c3c-2068052c999f/public_url)
