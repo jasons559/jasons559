@@ -8,7 +8,7 @@
 <h2>🏢 Active Directory Projects:</h2>
 
 - <b>Active Directory Home Lab- Windows Server Domain Infrastructure (3/10/2026)</b>
-- [Company Network Design and Implementation](https://github.com/jasons559/Company-Network-Design-and-Implementation-Lab)
+- [Active Directory Home Lab](https://github.com/jasons559/Company-Network-Design-and-Implementation-Lab)
 
 <h2>🔖 Certifications</h2>
 
