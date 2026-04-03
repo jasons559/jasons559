@@ -10,6 +10,13 @@
 - <b>Active Directory Home Lab- Windows Server Domain Infrastructure (3/10/2026)</b>
 - [Active Directory Home Lab](https://github.com/jasons559/Active-Directory-Home-Lab)
 
+<h2>🖥️Home Data Center Lab:</h2>
+
+- <b>Active Directory Home Lab- Windows Server Domain Infrastructure (3/10/2026)</b>
+- [Active Directory Home Lab](https://github.com/jasons559/Active-Directory-Home-Lab)
+
+
+
 <h2>🔖 Certifications</h2>
 
 - <b>CompTIA Sec+ </b>(https://www.credly.com/badges/a2c72105-a43b-43f8-8c3c-2068052c999f/public_url)
