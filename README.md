@@ -10,10 +10,10 @@
 - <b>Active Directory Home Lab- Windows Server Domain Infrastructure (3/10/2026)</b>
 - [Active Directory Home Lab](https://github.com/jasons559/Active-Directory-Home-Lab)
 
-<h2>🖥️Home Data Center Lab:</h2>
+<h2>💻HomeData Center Lab:</h2>
 
 - <b>Home Data Center Lab (4/1/2026)</b>
-- [Active Directory Home Lab](https://github.com/jasons559/Home-Data-Center-Lab)
+- [Home Data Center Lab](https://github.com/jasons559/Home-Data-Center-Lab)
 
 
 
