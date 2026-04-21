@@ -18,7 +18,7 @@
 <h2>📈IT-Support Ticketing & NOC Simulation Lab:</h2>
 
 - <b>IT-Support Ticketing & NOC Simulation Lab (4/18/2026)</b>
-- [
+- [IT Support Ticketing & NOC Simulation Lab](https://github.com/jasons559/IT-Support-Ticketing-NOC-Simulation-Lab/tree/main)
 
 
 <h2>🔖 Certifications</h2>
