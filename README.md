@@ -15,9 +15,9 @@
 - <b>Home Data Center Lab (4/1/2026)</b>
 - [Home Data Center Lab](https://github.com/jasons559/Home-Data-Center-Lab)
 
-<h2>📈OS-Ticketing Lab:</h2>
+<h2>📈IT-Support Ticketing & NOC Simulation Lab:</h2>
 
-- <b>OS-Ticketing Lab (4/18/2026)</b>
+- <b>IT-Support Ticketing & NOC Simulation Lab (4/18/2026)</b>
 - [
 
 
