@@ -1,24 +1,32 @@
 <h1>Hi, I'm Jason! </h1>
 
-<h2>🏢 Enterprise Networking Project:</h2>
+<h2>☁️+🏢AWS Cloud Networking & Linux Administration Lab:</h2>
 
-- <b>Enterprise Network Design and Implementation Lab (2/16/2026)</b>
-- [Company Network Design and Implementation](https://github.com/jasons559/Company-Network-Design-and-Implementation-Lab)
+- <b>AWS Cloud Networking & Linux Administration Lab (5/7/2026)</b>
+- [AWS Cloud+Networking Lab](https://github.com/jasons559/AWS-Cloud-Networking-Lab)
 
-<h2>🖥️Active Directory Project:</h2>
+<h2>📈IT-Support Ticketing & NOC Simulation Lab:</h2>
 
-- <b>Active Directory Home Lab- Windows Server Domain Infrastructure (3/10/2026)</b>
-- [Active Directory Home Lab](https://github.com/jasons559/Active-Directory-Home-Lab)
+- <b>IT-Support Ticketing & NOC Simulation Lab (4/18/2026)</b>
+- [IT Support Ticketing & NOC Simulation Lab](https://github.com/jasons559/IT-Support-Ticketing-NOC-Simulation-Lab/tree/main)
 
 <h2>💻Home Data Center Lab:</h2>
 
 - <b>Home Data Center Lab (4/1/2026)</b>
 - [Home Data Center Lab](https://github.com/jasons559/Home-Data-Center-Lab)
 
-<h2>📈IT-Support Ticketing & NOC Simulation Lab:</h2>
+<h2>🖥️Active Directory Project:</h2>
 
-- <b>IT-Support Ticketing & NOC Simulation Lab (4/18/2026)</b>
-- [IT Support Ticketing & NOC Simulation Lab](https://github.com/jasons559/IT-Support-Ticketing-NOC-Simulation-Lab/tree/main)
+- <b>Active Directory Home Lab- Windows Server Domain Infrastructure (3/10/2026)</b>
+- [Active Directory Home Lab](https://github.com/jasons559/Active-Directory-Home-Lab)
+
+<h2>🏢 Enterprise Networking Project:</h2>
+
+- <b>Enterprise Network Design and Implementation Lab (2/16/2026)</b>
+- [Company Network Design and Implementation](https://github.com/jasons559/Company-Network-Design-and-Implementation-Lab)
+
+
+
 
 
 <h2>🔖 Certifications</h2>
